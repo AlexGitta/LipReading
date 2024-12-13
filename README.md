@@ -9,3 +9,5 @@ opencv-python = 4.6.0.66
 matplotlib
 
 Dataset can be found here - https://spandh.dcs.shef.ac.uk/gridcorpus/
+
+THERE IS A MISSING FILE IN THE DATASET - ALIGNMENT swiz9n.align DOES NOT HAVE A CORRESPONDING VIDEO
